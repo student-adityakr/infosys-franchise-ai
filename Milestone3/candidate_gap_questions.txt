@@ -1,0 +1,55 @@
+FranchiseOps AI — 52 candidate Copilot gap-test questions
+Run these in Admin → Test them now. Treat a question as a gap only if the running Copilot fails, gives a weak match, or returns an irrelevant answer. Then import the matching verified answer from taught_questions.csv.
+
+01. How much safety stock should each outlet keep?
+02. When should an outlet raise a reorder?
+03. Which stock rotation method is required?
+04. What should happen to perishables within 24 hours of expiry?
+05. When must a stock-out of a top-10 SKU be escalated?
+06. When is a secondary supplier required?
+07. Who approves purchase orders above ₹2 lakh?
+08. Who may approve purchase orders below ₹2 lakh?
+09. What is the sample maximum working week for staff?
+10. At what weekly overtime level should work be flagged?
+11. Who approves overtime beyond 16 hours per week?
+12. What staff presence is required on weekends?
+13. What happens after three unexplained absences in one month?
+14. What action follows an attrition risk above 70 percent?
+15. What should a retention conversation review?
+16. What must a new hire complete before a solo shift?
+17. What food-safety licence must an outlet hold?
+18. What cold-storage temperature range is in the sample policy?
+19. What temperature should deep freezers remain below in the sample policy?
+20. What cooking-oil TPC limit is stated in the sample policy?
+21. What happens after an internal audit score below 60?
+22. When should an outlet be re-audited after a failed audit?
+23. How long are audit records retained in the sample policy?
+24. What minimum CSAT score does the sample policy set?
+25. What happens when rolling sentiment falls below 45 out of 100?
+26. What actions are included in the sample service-recovery plan?
+27. Who may grant a refund up to ₹500 under the sample policy?
+28. Who approves discounts above 25 percent?
+29. When should a campaign be paused under the sample policy?
+30. How should campaign uplift be measured?
+31. When should promotions not be run on an item?
+32. What is the local campaign spending cap in the sample policy?
+33. How often can a customer receive a loyalty offer?
+34. What information should every campaign record?
+35. What is the outlet health-score scale?
+36. What health score is considered critical in the sample policy?
+37. What follows two consecutive critical months?
+38. What royalty percentage is stated in the sample policy?
+39. What late royalty charge is stated in the sample policy?
+40. How should outlets submit daily sales?
+41. What is the sample ticket response time for an Info item?
+42. What is the sample ticket response time for a Warning item?
+43. What is the sample ticket response time for a Critical item?
+44. What happens if a Critical ticket remains unowned for one hour?
+45. Which types of agent actions need human approval?
+46. Which actions may be automatic in the sample policy?
+47. What must be recorded for each approval or rejection?
+48. How may customer phone numbers and email addresses be used?
+49. Who may view employee records under the sample policy?
+50. What must happen when personal data is exported?
+51. How long may data be retained under the sample policy?
+52. Within what time should a data-subject request be answered?
